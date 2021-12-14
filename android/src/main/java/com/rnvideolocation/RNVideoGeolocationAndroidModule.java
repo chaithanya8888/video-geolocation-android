@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.rnvideolocation;
 
 import android.media.MediaMetadataRetriever;
 import android.net.Uri;

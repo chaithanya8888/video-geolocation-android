@@ -1,0 +1,41 @@
+{
+  "name": "video-geolocation-android",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "description": "An unified permissions API for React Native on iOS, Android and Windows",
+  "author": "Venkata Chaithanya <vchaitanya@travogram.com>",
+  "homepage": "https://github.com/chaithanya8888/video-geolocation-android.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaithanya8888/video-geolocation-android.git"
+  },
+  "keywords": [
+    "react-native",
+    "react native",
+    "exif location",
+    "exif interface",
+    "media location permission",
+    "permission",
+    "video location",
+    "MediaMetaDataRetriever"
+  ],
+  "peerDependencies": {
+    "react": ">=16.13.1",
+    "react-native": ">=0.63.3",
+    "react-native-windows": ">=0.62.0"
+  },
+  "peerDependenciesMeta": {
+    "react-native-windows": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.66.3",
+    "react-native-builder-bob": "^0.18.2"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "video-geolocation-android",
+  "name": "react-native-video-geolocation-android",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
